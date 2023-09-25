@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/potato-disease-classifier/static/css/main.21e7495e.css",
+    "main.js": "/potato-disease-classifier/static/js/main.e72bbba4.js",
+    "index.html": "/potato-disease-classifier/index.html",
+    "main.21e7495e.css.map": "/potato-disease-classifier/static/css/main.21e7495e.css.map",
+    "main.e72bbba4.js.map": "/potato-disease-classifier/static/js/main.e72bbba4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21e7495e.css",
+    "static/js/main.e72bbba4.js"
+  ]
+}
